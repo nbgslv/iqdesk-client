@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installing
 
-Run `yarn` to install dependencies. If
+1. Run `yarn` to install dependencies.
+2. You should create an `.env` file in the file project root folder, with the following variables:
+    
+    * `REACT_APP_PORT=3000`
+    * `REACT_APP_API_URL=http://localhost:3001/api/v1`
 
 ## Running demo server
 
