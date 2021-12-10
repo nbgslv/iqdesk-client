@@ -1,0 +1,30 @@
+.main-container{
+  width: 100vw;
+  height: 100vh;
+}
+
+.message{
+  background-color: antiquewhite;
+  width: 200px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.divider{
+  width: 100%;
+}
+
+.list-table{
+  border-collapse: collapse;
+  border-style: hidden;
+}
+
+.list-table td, .list-table th{
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.list-table tr:hover{
+  background-color: aqua;
+  cursor: pointer;
+}

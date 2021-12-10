@@ -1,0 +1,22 @@
+.items-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.add-item{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.add-item label{
+  margin-right: 5px;
+}
+
+.add-item select{
+  width: 155px;
+}
+
+.item-field{
+  margin-bottom: 10px;
+}
